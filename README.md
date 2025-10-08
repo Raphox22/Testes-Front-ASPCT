@@ -17,7 +17,14 @@ Os testes foram desenvolvidos utilizando as seguintes ferramentas:
 
 ### Instalação das Dependências
 
-1.  **Instale o Selenium:**
+1.  **Clone o Repositório:**
+
+    ```bash
+    git clone [https://github.com/Raphox22/Testes-Front-ASPCT.git](https://github.com/Raphox22/Testes-Front-ASPCT.git)
+    cd Testes-Front-ASPCT
+    ```
+
+2.  **Instale o Selenium:**
 
     ```bash
     pip install selenium
